@@ -5,4 +5,4 @@ In this challenge I have built a terminal shell that currently supports the comm
 - exit [number] -> accepts one number as input and exits the program
 - type [arg] -> check if the provided arg is a command supported by the shell
 - pwd -> print current working directory
-- cd -> change working directory
+- cd [arg] -> accepts a path as input change working directory
